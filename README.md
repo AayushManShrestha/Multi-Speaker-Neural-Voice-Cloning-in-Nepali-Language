@@ -4,14 +4,13 @@
 ## Step-wise Working 
 
 1. ```python
-   !git clone https://github.com/projan-shakya/Multi-Speaker-Neural-Voice-Cloning-in-Nepali-Language.git
+   !git clone https://github.com/AayushManShrestha/Multi-Speaker-Neural-Voice-Cloning-in-Nepali-Language.git
 3. ```python
    import os
    os.chdir('Multi-Speaker-Neural-Voice-Cloning-in-Nepali-Language')
    !git submodule init
    !git submodule update
    !pip install -q unidecode tensorboardX
-   !pip install librosa==0.9.2
 
 4. Upload wav file on drive then
    ```python
