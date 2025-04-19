@@ -1,7 +1,7 @@
-# Multi-Speaker-Neural-Voice-Cloning-in-Nepali-Language
+# Multi-speaker Nepali Voice Cloning in Nepali Langauge
+## Demo Video Link: [Minor Project Demo Video](https://www.youtube.com/watch?v=UYX3VjIn17U)
 
-
-## Step-wise Working 
+## Tacotron2 Fine-tuning Instructions
 
 1. ```python
    !git clone https://github.com/AayushManShrestha/Multi-Speaker-Neural-Voice-Cloning-in-Nepali-Language.git
